@@ -3,23 +3,39 @@
 }
 h1{
 	text-align: center;
+	font-family: 'Exo', sans-serif;
+	font-size: 40px;
+	color: #062ED4;
 }
 input{
-	frontera: 1px solid #008B8B;
-  font-size: 18px;
-  font-family: Arial, Verdana;
-  padding-left: 7px;
-  padding-right: 7px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  border-radius: 4px;
-  -moz-border-radius: 4px;
-  -webkit-border-radius: 4px;
-  -o-border-radius: 4px;
-  Antecedentes: #008B8B;
-  fondo: lineal en gradiente (izquierda, #FFFFFF, # F7F9FA);
-  fondo: -moz-lineal-gradiente (izquierda, #FFFFFF, # F7F9FA);
-  fondo: -webkit-lineal-gradiente (izquierda, #FFFFFF, # F7F9FA);
-  fondo: -o-lineal-gradiente (izquierda, #FFFFFF, # F7F9FA);
-  color: # 2E3133;
+ border: 2px solid #009B7D;
+  padding : 2px 10px;
+  margin  : 1;
+  width   : 194px;
+  background:#18A88D;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: white;
+}
+button{
+  font-size: 20px; 
+        font-family: Verdana, Helvetica; 
+        font-weight: bold; 
+        color :white; 
+        background: #16DF16; 
+        border: 5px; 
+        width: 100px; 
+        height: 30px; 
+}
+#botonParaAgregarALaLista{
+	font-size: 20px; 
+        font-family: Verdana, Helvetica; 
+        font-weight: bold; 
+        color :white; 
+        background: #16DF16; 
+        border: 5px; 
+        width: 150px; 
+        height: 30px;
+        padding-left: 3px;
+        margin-left: 6px;
 }
