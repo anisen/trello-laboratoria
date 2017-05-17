@@ -1,0 +1,25 @@
+*{
+	background-color: #20B2AA;
+}
+h1{
+	text-align: center;
+}
+input{
+	frontera: 1px solid #008B8B;
+  font-size: 18px;
+  font-family: Arial, Verdana;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -o-border-radius: 4px;
+  Antecedentes: #008B8B;
+  fondo: lineal en gradiente (izquierda, #FFFFFF, # F7F9FA);
+  fondo: -moz-lineal-gradiente (izquierda, #FFFFFF, # F7F9FA);
+  fondo: -webkit-lineal-gradiente (izquierda, #FFFFFF, # F7F9FA);
+  fondo: -o-lineal-gradiente (izquierda, #FFFFFF, # F7F9FA);
+  color: # 2E3133;
+}
